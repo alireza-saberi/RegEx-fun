@@ -14,3 +14,6 @@ In this document, I solve [hackerrank challenges in several RegEx applications](
 10. Detecting Valid Latitude and Longitude Pairs
 
 and more!
+Answers:
+
+1. `var regex=/<a.*?href="(.*?)".*?>(.*?)<\/a>/ig;`
