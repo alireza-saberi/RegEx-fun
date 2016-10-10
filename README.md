@@ -15,5 +15,7 @@ In this document, I solve [hackerrank challenges in several RegEx applications](
 11. Password that must contain 8 or more characters that are of at least one number, and one uppercase and lowercase letter : `(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}`
 12. [Canadian Postal Code](https://en.wikipedia.org/wiki/Postal_codes_in_Canada): > `^[ABCEGHJKLMNPRSTVXY]\d[ABCEGHJKLMNPRSTVWXYZ]( )?\d[ABCEGHJKLMNPRSTVWXYZ]\d$`
 13. [US Postal Code](https://en.wikipedia.org/wiki/ZIP_Code): > `^\d{5}(-\d{4})?$`
+14. Email patterns > `[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$`
+15. URL > `https?://.+`
 
 and more!
