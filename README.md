@@ -19,3 +19,7 @@ In this document, I solve [hackerrank challenges in several RegEx applications](
 15. URL > `https?://.+`
 
 and more!
+
+## License
+
+The contents of this repository are covered under the [MIT License](LICENSE.txt).
